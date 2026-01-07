@@ -1,0 +1,5 @@
+opencv-python
+easyocr
+numpy
+simple-lama-inpainting
+pillow
